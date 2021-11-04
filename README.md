@@ -4,6 +4,7 @@
 
 Yapılanlar;
 
+- Yeni tarihten eskiye sıralanır postlar
 - Pagination
 - Template engine olarak react
 - MVC
